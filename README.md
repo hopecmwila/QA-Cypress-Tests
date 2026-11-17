@@ -7,7 +7,6 @@ A centralized repository containing end-to-end (E2E) and unit test automation sc
 - **`automation-task-cypress/`** – Task-specific automated test scripts and QA assessment scenarios.
 - **`bloom-test-cypress/`** – Functional and UI test suites for the Bloom application.
 - **`Cypress/`** – Additional Cypress configurations, custom commands, and standalone test specs.
-- **`unit/`** – Unit-level test scripts verifying isolated component and function behaviors.
 
 ## Tech Stack
 
